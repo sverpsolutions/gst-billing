@@ -1,0 +1,16 @@
+# Environment variables (sensitive credentials)
+.env
+
+# Node modules
+node_modules/
+
+# Uploads (user-generated files)
+public/uploads/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
